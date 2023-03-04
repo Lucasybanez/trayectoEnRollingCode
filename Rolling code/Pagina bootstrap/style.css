@@ -1,0 +1,10 @@
+.secCards{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.secCarrusel{
+    width: 20%;
+    margin: 0 auto;
+}
