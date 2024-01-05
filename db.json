@@ -10,35 +10,35 @@
       "id": 2,
       "nombre": "PizzaExpress",
       "frase": "Variedad de pizzas artesanales",
-      "fotoDePerfil": "",
-      "portada": ""
+      "fotoDePerfil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1r2N9uA1S5fRwGQANUBfch-8EOmKFoMSG2N-yiVDLfJsd71v1tIjJBHVr8kAO8iBo6A&usqp=CAU",
+      "portada": "https://elplanetaurbano.com/wp-content/uploads/2023/02/pizza-planeta-urbano-00.jpg"
     },
     {
       "id": 3,
       "nombre": "SushiMaster",
       "frase": "Delicioso sushi fresco",
-      "fotoDePerfil": "",
-      "portada": ""
+      "fotoDePerfil": "https://pbs.twimg.com/profile_images/990245702998659073/qMRJeUh__400x400.jpg",
+      "portada": "https://despilfarra.files.wordpress.com/2013/07/sushi-portada.png"
     },
     {
       "id": 4,
       "nombre": "TacoLoco",
       "frase": "Tacos auténticos mexicanos",
-      "fotoDePerfil": "",
-      "portada": ""
+      "fotoDePerfil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSZ783Rm2CNh9NbMNIS_XME0f-nkbIMU55wTRrvb60-jn0yOdSiJB0CxUwRaW7EdxXss&usqp=CAU",
+      "portada": "https://theomg.tv/wp-content/uploads/2023/03/portadaArticulo-55.jpg"
     },
     {
       "id": 5,
       "nombre": "LaPastaFresca",
       "frase": "Pastas frescas y deliciosas",
-      "fotoDePerfil": "",
-      "portada": ""
+      "fotoDePerfil": "https://www.agoramodiano.com/wp-content/uploads/2022/11/Pasta_Fresca_logo_400x400px-1.png",
+      "portada": "https://www.lavanguardia.com/files/image_948_465/uploads/2019/10/25/5ea9c25b4e7e6.jpeg"
     },
     {
       "id": 6,
       "nombre": "ElAsadorArgentino",
       "frase": "Carnes a la parrilla argentinas",
-      "fotoDePerfil": "",
-      "portada": ""
+      "fotoDePerfil": "https://pbs.twimg.com/profile_images/684042948955258880/e1EwLXV8_400x400.jpg",
+      "portada": "https://billiken.lat/wp-content/uploads/2022/06/asado-carne-cocinada-a-la-parrilla-quimica-SITIO.jpg"
     }
   ]
