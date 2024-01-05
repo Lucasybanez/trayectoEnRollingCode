@@ -1,0 +1,56 @@
+{
+  "comercios": [
+    {
+      "id": 1,
+      "nombre": "Bros",
+      "frase": "Hamburguesas y cómida rápida",
+      "fotoDePerfil":"https://instagram.ftuc2-1.fna.fbcdn.net/v/t51.2885-19/334607068_230454529550417_1937470109895998954_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.ftuc2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=uO2-ZVvZX3gAX9L-HTg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCMWEeq1ovsYjmK4z-_bhWyezqWumKCkgd2zQTEwB59rg&oe=659C960A&_nc_sid=8b3546",
+      "portada":"https://www.beloleum.com/wp-content/uploads/2023/10/hamburguesas-caseras-gourmet.png"
+    },
+    {
+      "id": 2,
+      "nombre": "PizzaExpress",
+      "frase": "Variedad de pizzas artesanales",
+      "fotoDePerfil": "",
+      "portada": ""
+    },
+    {
+      "id": 3,
+      "nombre": "SushiMaster",
+      "frase": "Delicioso sushi fresco",
+      "fotoDePerfil": "",
+      "portada": ""
+    },
+    {
+      "id": 4,
+      "nombre": "TacoLoco",
+      "frase": "Tacos auténticos mexicanos",
+      "fotoDePerfil": "",
+      "portada": ""
+    },
+    {
+      "id": 5,
+      "nombre": "LaPastaFresca",
+      "frase": "Pastas frescas y deliciosas",
+      "fotoDePerfil": "",
+      "portada": ""
+    },
+    {
+      "id": 6,
+      "nombre": "ElAsadorArgentino",
+      "frase": "Carnes a la parrilla argentinas",
+      "fotoDePerfil": "",
+      "portada": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
