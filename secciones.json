@@ -1,0 +1,12 @@
+[
+    {
+        "id_seccion": 1,
+        "nombre": "Promociones",
+        "comercio": 1
+    },
+    {
+        "id_seccion": 2,
+        "nombre": "Hamburguesas",
+        "comercio": 1
+    }
+]

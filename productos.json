@@ -1,0 +1,42 @@
+[
+    {
+        "id_producto":1,
+        "nombre":"COMBO 1",
+        "descripcion":"Yunta simple + papas + bebida de preferencia",
+        "imagen": "https://file.adomicil.io/carlsjr.adomicil.io/_files/images/product/burgers05teriyakiburgercombo-0709673318876733.jpg",
+        "precio":2000,
+        "seccion":1
+    },
+    {
+        "id_producto":2,
+        "nombre":"COMBO 2",
+        "descripcion":"DEQUERUSA simple + papas + bebida de preferencia",
+        "imagen": "https://file.adomicil.io/carlsjr.adomicil.io/_files/images/product/burgers05teriyakiburgercombo-0709673318876733.jpg",
+        "precio":3500,
+        "seccion":1
+    },
+    {
+        "id_producto":3,
+        "nombre":"COMBO 3",
+        "descripcion":"DEQUERUSA SUPER + papas + bebida de preferencia",
+        "imagen": "https://file.adomicil.io/carlsjr.adomicil.io/_files/images/product/burgers05teriyakiburgercombo-0709673318876733.jpg",
+        "precio":4000,
+        "seccion":1
+    },
+    {
+        "id_producto":4,
+        "nombre":"DOBLE CHEDDAR",
+        "descripcion":"DEQUERUSA SUPER + papas + bebida de preferencia",
+        "imagen": "https://i0.wp.com/elplanetaurbano.com/wp-content/uploads/2022/10/Burgermania_Planeta_Urbano_2022_BURGER_GROUND.jpg?resize=640%2C513&ssl=1",
+        "precio":2500,
+        "seccion":1
+    },
+    {
+        "id_producto":5,
+        "nombre":"TRIPLE BEACON",
+        "descripcion":"DEQUERUSA SUPER + papas + bebida de preferencia",
+        "imagen": "https://www.sargento.com/assets/Uploads/Recipe/Image/BonanzaBurger__FillWzExNzAsNTgzXQ.jpg",
+        "precio":2500,
+        "seccion":1
+    }
+]
