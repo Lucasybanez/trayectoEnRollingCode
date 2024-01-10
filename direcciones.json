@@ -1,0 +1,10 @@
+[
+    {
+        "comercio": 1,
+        "direccion":"Alberdi 123"
+    },
+    {
+        "comercio":1,
+        "direccion":"Perón 456"
+    }
+]
