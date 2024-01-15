@@ -1,0 +1,56 @@
+[
+    {
+        "id_categoria":1,
+        "nombre":"Gastronomía",
+        "descripcion":"Delivery, comidas y bebidas",
+        "imagen":"https://static.vecteezy.com/system/resources/previews/025/064/816/original/hamburger-with-ai-generated-free-png.png"
+    },
+    {
+        "id_categoria":2,
+        "nombre":"Estética",
+        "descripcion":"Peluquerías, uñas y más",
+        "imagen":""
+    },
+    {
+        "id_categoria":3,
+        "nombre":"Transporte",
+        "descripcion":"Remises, taxis...",
+        "imagen":"https://purepng.com/public/uploads/large/taxi-with-shield-mzq.png"
+    },
+    {
+        "id_categoria":4,
+        "nombre":"Shopping",
+        "descripcion":"Ropa, calzados y más",
+        "imagen":"https://assets.stickpng.com/images/580b57fbd9996e24bc43bf78.png"
+    },
+    {
+        "id_categoria":5,
+        "nombre":"Educación",
+        "descripcion":"Cursos, profesores particulares...",
+        "imagen":"https://www.pnguniverse.com/wp-content/uploads/2021/08/Grupo-de-libros-243a622b.png"
+    },
+    {
+        "id_categoria":6,
+        "nombre":"Servicios",
+        "descripcion":"Mantenimiento y más",
+        "imagen":""
+    },
+    {
+        "id_categoria":7,
+        "nombre":"Profesionales",
+        "descripcion":"Abogados, contadores, médicos...",
+        "imagen":"https://png.monster/wp-content/uploads/2022/02/png.monster-33-269x370.png"
+    },
+    {
+        "id_categoria":8,
+        "nombre":"Varios",
+        "descripcion":"¡De todo un poco!",
+        "imagen":"https://4.bp.blogspot.com/-QPVayCz0saw/Vg5DW9wusxI/AAAAAAAAAJk/WzfN3dRJeuU/s1600/Articulos%2Bvarios%2Bde%2Bpapeleria.png"
+    },
+    {
+        "id_categoria":9,
+        "nombre":"Tecnología",
+        "descripcion":"El futuro es hoy",
+        "imagen":"https://gmedia.playstation.com/is/image/SIEPDC/dualsense-controller-product-thumbnail-01-en-14sep21?$facebook$"
+    }
+]
