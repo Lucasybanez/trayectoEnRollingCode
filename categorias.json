@@ -10,7 +10,7 @@
         "id_categoria":2,
         "nombre":"Estética",
         "descripcion":"Peluquerías, uñas y más",
-        "imagen":"",
+        "imagen":"https://cdn.pixabay.com/photo/2017/08/31/22/59/scissors-2702564_1280.png",
         "color":"f6d100"
     },
     {
@@ -38,8 +38,8 @@
         "id_categoria":6,
         "nombre":"Servicios",
         "descripcion":"Mantenimiento y más",
-        "imagen":"",
-        "color":""
+        "imagen":"https://esenciawater.com/wp-content/uploads/2020/03/tecnico.png",
+        "color":"00b8fe"
     },
     {
         "id_categoria":7,
@@ -53,7 +53,7 @@
         "nombre":"Varios",
         "descripcion":"¡De todo un poco!",
         "imagen":"https://4.bp.blogspot.com/-QPVayCz0saw/Vg5DW9wusxI/AAAAAAAAAJk/WzfN3dRJeuU/s1600/Articulos%2Bvarios%2Bde%2Bpapeleria.png",
-        "color":""
+        "color":"f6d100"
     },
     {
         "id_categoria":9,
