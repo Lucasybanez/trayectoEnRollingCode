@@ -3,42 +3,42 @@
         "id_categoria":1,
         "nombre":"Gastronomía",
         "descripcion":"Delivery, comidas y bebidas",
-        "imagen":"https://static.vecteezy.com/system/resources/previews/025/064/816/original/hamburger-with-ai-generated-free-png.png",
+        "imagen":"https://www.cuisinart.com/globalassets/recipes/theultimateburger_1221259867.jpg",
         "color":"ff3b3c"
     },
     {
         "id_categoria":2,
         "nombre":"Estética",
         "descripcion":"Peluquerías, uñas y más",
-        "imagen":"https://cdn.pixabay.com/photo/2017/08/31/22/59/scissors-2702564_1280.png",
+        "imagen":"https://media.glamour.mx/photos/64d69876723762de5e8c32a5/4:3/w_1924,h_1443,c_limit/colores-de-un%CC%83as-para-oton%CC%83o.jpg",
         "color":"f6d100"
     },
     {
         "id_categoria":3,
         "nombre":"Transporte",
         "descripcion":"Remises, taxis...",
-        "imagen":"https://purepng.com/public/uploads/large/taxi-with-shield-mzq.png",
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/NYC_Taxi_Ford_Crown_Victoria.jpg/1200px-NYC_Taxi_Ford_Crown_Victoria.jpg",
         "color":"ff7e00"
     },
     {
         "id_categoria":4,
         "nombre":"Shopping",
         "descripcion":"Ropa, calzados y más",
-        "imagen":"https://assets.stickpng.com/images/580b57fbd9996e24bc43bf78.png",
+        "imagen":"https://static.vecteezy.com/system/resources/previews/030/465/537/non_2x/clothes-hang-in-a-modern-boutique-reflecting-contemporary-fashion-at-the-clothing-shop-vertical-mobile-wallpaper-ai-generated-free-photo.jpg",
         "color":"00b8fe"
     },
     {
         "id_categoria":5,
         "nombre":"Educación",
         "descripcion":"Cursos, profesores particulares...",
-        "imagen":"https://www.pnguniverse.com/wp-content/uploads/2021/08/Grupo-de-libros-243a622b.png",
+        "imagen":"https://www.lenguajearcoiris.cl/wp-content/uploads/2018/03/pei-1100x500.jpg",
         "color":"fa7cfa"
     },
     {
         "id_categoria":6,
         "nombre":"Servicios",
         "descripcion":"Mantenimiento y más",
-        "imagen":"https://esenciawater.com/wp-content/uploads/2020/03/tecnico.png",
+        "imagen":"https://climafrv.com/wp-content/uploads/2023/08/elegir-tecnico-aire-acondicionado-en-malaga.jpg",
         "color":"00b8fe"
     },
     {
@@ -52,14 +52,14 @@
         "id_categoria":8,
         "nombre":"Varios",
         "descripcion":"¡De todo un poco!",
-        "imagen":"https://4.bp.blogspot.com/-QPVayCz0saw/Vg5DW9wusxI/AAAAAAAAAJk/WzfN3dRJeuU/s1600/Articulos%2Bvarios%2Bde%2Bpapeleria.png",
+        "imagen":"https://img.freepik.com/foto-gratis/bodegon-escritorio-adolescente_23-2149371274.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1705104000&semt=ais",
         "color":"76CD91"
     },
     {
         "id_categoria":9,
         "nombre":"Tecnología",
         "descripcion":"El futuro es hoy",
-        "imagen":"https://gmedia.playstation.com/is/image/SIEPDC/dualsense-controller-product-thumbnail-01-en-14sep21?$facebook$",
+        "imagen":"https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ps5-3011390.jpg",
         "color":"0189ff"
     }
 ]
