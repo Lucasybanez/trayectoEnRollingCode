@@ -1,0 +1,112 @@
+{
+  "busquedas":[
+    {
+      "id":1,
+      "nombre":"Los postres más ricos del mundo",
+      "resultados": [
+        {
+          "url": "https://i.ibb.co/p46rR8f/3a7c33a4-0164-4822-a82d-58149f80b7fd.jpg",
+          "pagina": "Las Mejores Tartas",
+          "descripcion": "Tartas frescas y de alta calidad"
+        },
+        {
+          "url": "https://i.ibb.co/yNxS5F0/5ead222b-5842-4577-aa2c-947ccfebcc18.jpg",
+          "pagina": "Dulces Sueños Repostería",
+          "descripcion": "Dulces y pasteles únicos"
+        },
+        {
+          "url": "https://i.ibb.co/LNJPh69/8ed2f13c-4f0b-446b-80db-92627843cefc.jpg",
+          "pagina": "El Rincón del Cupcake",
+          "descripcion": "Cupcakes decorados con amor"
+        },
+        {
+          "url": "https://i.ibb.co/YL3x2h7/4579a681-db14-417b-9ec8-fe409b186c16.jpg",
+          "pagina": "Delicias de la Abuela",
+          "descripcion": "Recetas secretas y tradición"
+        },
+        {
+          "url": "https://i.ibb.co/L1d1VVj/b377d93a-e85d-4eed-8f8b-394a7145c9ac.jpg",
+          "pagina": "Postres para Todos",
+          "descripcion": "Variedad para todos los gustos"
+        },
+        {
+          "url": "https://i.ibb.co/Rb4j6Nr/c30a2810-3b68-43b8-a9d4-9d88543f23d9.jpg",
+          "pagina": "Pasteles de Ensueño",
+          "descripcion": "Pasión y sabor inigualables"
+        },
+        {
+          "url": "https://i.ibb.co/jbSmXtL/e1356fd4-f9e1-4b06-a47c-f791c87fb934.jpg",
+          "pagina": "Repostería Creativa",
+          "descripcion": "Diseños únicos y sabores"
+        },
+        {
+          "url": "https://i.ibb.co/S6x51Vw/e8594b1b-ce6f-4d46-80ee-0bb7562c31c8.jpg",
+          "pagina": "Galletas y Más",
+          "descripcion": "Clásicas y creaciones exclusivas"
+        },
+        {
+          "url": "https://i.ibb.co/SfJtJkr/f6499eb3-0b79-488a-89a2-a7ac971a4a86.jpg",
+          "pagina": "Tortas Especiales",
+          "descripcion": "Tortas hechas a medida"
+        }
+      ]
+      
+    },
+    {
+      "id":2,
+      "nombre":"Mujer más linda del mundo",
+      
+        "resultados": [
+          {
+            "url": "https://i.ibb.co/ZWxCfw9/Whats-App-Image-2024-01-24-at-22-06-37.jpg",
+            "pagina": "Modelo 1",
+            "descripcion": "Belleza Exclusiva"
+          },
+          {
+            "url": "https://i.ibb.co/2sP0dNd/Whats-App-Image-2024-01-24-at-22-06-37-1.jpg",
+            "pagina": "Fashion Beauty",
+            "descripcion": "Estilo Único"
+          },
+          {
+            "url": "https://i.ibb.co/gMXMggR/Whats-App-Image-2024-01-24-at-22-06-37-2.jpg",
+            "pagina": "Estilo Glamour",
+            "descripcion": "Glamour Elegante"
+          },
+          {
+            "url": "https://i.ibb.co/chbswSW/Whats-App-Image-2024-01-24-at-22-06-37-3.jpg",
+            "pagina": "Modelos Top",
+            "descripcion": "Moda Internacional"
+          },
+          {
+            "url": "https://i.ibb.co/z74XFTv/Whats-App-Image-2024-01-24-at-22-06-38.jpg",
+            "pagina": "Moda Exclusiva",
+            "descripcion": "Tendencia Actual"
+          }
+        ]
+      },
+      {
+        "id":3,
+        "nombre":"Mujer súper sexy 🥵🥵",
+          "resultados": [
+            {
+              "url": "https://i.ibb.co/5cnMYTJ/1f238532-84a5-4dca-88fb-b67591b77e6a.jpg",
+              "pagina": "Sensualidad Total",
+              "descripcion": "Encanto Seductor"
+            },
+            {
+              "url": "https://i.ibb.co/SyFHKZM/9df016b8-672d-4c6c-8e96-5ea81fc0d917.jpg",
+              "pagina": "Atracción Sexy",
+              "descripcion": "Sensualidad Impactante"
+            },
+            {
+              "url": "https://i.ibb.co/86dm3N3/d7bf279c-5bed-41b5-ba62-2fc803e67dd7.jpg",
+              "pagina": "Elegancia Sensual",
+              "descripcion": "Estilo Provocador"
+            }
+          ]
+        
+        
+        }
+
+]
+}
